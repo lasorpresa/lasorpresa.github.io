@@ -1,3 +1,15 @@
+@media screen and (max-width: 780px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
+
+@media screen and (min-width: 1080px) {
+  .flex-container {
+    padding: 150px 20vw;
+  }
+}
+
 body {
   margin: 0;
 }
@@ -6,13 +18,13 @@ body {
   background-size: cover;
   background-position: center;
   height: 100vh;
+  overflow: scroll;
 }
 
 .flex-container {
   padding: 150px 10vw;
   display: flex;
   justify-content: center;
-  /*flex-direction: column;*/
 }
 .banner h1 {
   padding: 0 2vw;
@@ -30,4 +42,8 @@ body {
   opacity: .9;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
   font-family: 'Raleway', sans-serif;
+}
+
+.contact {
+  color: aqua;
 }
