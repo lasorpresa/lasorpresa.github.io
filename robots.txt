@@ -1,5 +1,5 @@
-# Block crawling of all content
+# Allow crawling of all content
 User-agent: *
-Disallow: /
+Disallow: 
 
 # cf. www.robotstxt.org/
