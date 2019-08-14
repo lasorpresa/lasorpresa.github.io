@@ -48,6 +48,10 @@ body {
   color: aqua;
 }
 
+.banner a:hover {
+  color: white;
+}
+
 .contact {
   color: aqua;
 }
