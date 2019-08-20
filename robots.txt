@@ -1,9 +1,9 @@
-<!-- # Allow crawling of all content -->
+# Allow crawling of all content
 User-agent: *
 Disallow: 
 
-<!-- # cf. www.robotstxt.org/ -->
+# cf. www.robotstxt.org/
 
 Sitemap: http://example.com/sitemap.txt
 
-<!-- # cf. https://support.google.com/webmasters/answer/183668?hl=en&ref_topic=4581190#sitemapformat -->
+# cf. https://support.google.com/webmasters/answer/183668?hl=en&ref_topic=4581190#sitemapformat
