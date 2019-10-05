@@ -42,7 +42,7 @@ body {
   font-family: 'Cinzel Decorative', cursive;
 }
 
-.banner h2 {
+.flex-container-2 h2 {
   padding: 0 2vw;
   margin: 0;
   color: white;
@@ -51,7 +51,7 @@ body {
   font-family: 'Cinzel Decorative', cursive;
 }
 
-.banner h3 {
+.flex-item h3 {
   padding: 0 2vw;
   margin: 0;
   color: white;
