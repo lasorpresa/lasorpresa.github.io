@@ -2,10 +2,16 @@
   .flex-container {
     flex-direction: column;
   }
+  .flex-container-2 {
+    flex-direction: column;
+  }
 }
 
 @media screen and (min-width: 1080px) {
   .flex-container {
+    padding: 150px 20vw;
+  }
+  .flex-container-2 {
     padding: 150px 20vw;
   }
 }
