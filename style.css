@@ -26,6 +26,13 @@ body {
   display: flex;
   justify-content: center;
 }
+
+.flex-container-2 {
+  padding: 20px 10vw;
+  display: flex;
+  justify-content: center;
+}
+
 .banner h1 {
   padding: 0 2vw;
   margin: 0;
@@ -33,6 +40,24 @@ body {
   text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
   font-size: 32px;
   font-family: 'Cinzel Decorative', cursive;
+}
+
+.banner h2 {
+  padding: 0 2vw;
+  margin: 0;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  font-size: 24px;
+  font-family: 'Cinzel Decorative', cursive;
+}
+
+.banner h3 {
+  padding: 0 2vw;
+  margin: 0;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  font-size: 24px;
+  font-family: 'Raleway', sans-serif;
 }
 
 .banner p {
